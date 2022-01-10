@@ -1,0 +1,4 @@
+BusStop1 3 4 10
+BusStop2 2 4 15
+BusStop3 4 6 40
+BusStop4 2 4 16
